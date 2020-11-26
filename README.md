@@ -1,4 +1,4 @@
-<h2>Hi there, I'm Matheus <img src="https://66.media.tumblr.com/tumblr_ma0tijLFPg1rfjowdo1_500.gif" width="50" align = "center"> </h2>
+<h2>Hi there, I'm Matheus</h2>
 
 <p><em> Currently studying development at <a href="https://rocketseat.com.br/">Rocketseat</a></em></p>
 
