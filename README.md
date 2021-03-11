@@ -1,5 +1,5 @@
 <h2>Hi there, I'm Matheus</h2>
-<p>Motivated and curious. Soon-to-be graduate in business, but in love with coding.</p>
+<p>Motivated and curious. Graduated in business, but in love with coding.</p>
 <p><em> Currently studying development at <a href="https://rocketseat.com.br/">Rocketseat</a></em></p>
 
 <img align="right" alt="GIF" src="https://media1.tenor.com/images/d7d3fbfbee85b01264854bfac2ffcdaa/tenor.gif?itemid=5638695"/>
