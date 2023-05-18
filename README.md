@@ -8,8 +8,6 @@
  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orosamatheus&layout=compact&langs_count=10&theme=tokyonight)
-
 
 <div align="left">
 
@@ -22,6 +20,5 @@
 
 
 
-  ![github stats](https://github-readme-stats.vercel.app/api?username=orosamatheus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) 
 
   
